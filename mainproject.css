@@ -1,15 +1,22 @@
 
+body::-webkit-scrollbar{
+width: 5px;
+}
+
 /*background color*/
 
 body{
-    background-color: #0C1027;
+    background-image: url("88.jpg");
+/*    background-position: center;*/
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
 /*main section left side*/
 
 #mainsection{
-   background-color: #0C1027;
+   background-color: transparent;
 	width: 68vw;
 	height: auto;
 	display: inline-block;
@@ -18,17 +25,22 @@ body{
     display: flex;
     flex-direction: column;
     overflow-x: hidden;
+    
 }
 
 /*sub section right section*/
 
 #subsection{
-    background-color: #0C1027;
+    background-color: transparent;
 	width: 26vw;
 	height: 100vh;
 	display: inline-block;
     float: right; 
     overflow: auto;
+}
+
+#subsection::-webkit-scrollbar{
+width: 5px;
 }
 
 
@@ -40,7 +52,7 @@ body{
     width: 100%;
     position: absolute;
     height: 50px;
-    background-color: #0C1027;
+    background-color: transparent;
     border-color: #0C1027;
     display: flex;
 }
@@ -281,7 +293,7 @@ body{
     margin-left: 10vw;
     width: 55.7vw;
     margin-top: 7vh;
-    background-color: #101642;
+    background-color: transparent;
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;

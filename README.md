@@ -7,7 +7,7 @@ So in this project i have made a webpage design of a music player using HTML and
 <img src="https://media3.giphy.com/media/TI4MVNucc2bWJBLRQg/giphy.gif?cid=ecf05e47mi3ywltvp2lsbv8hmgj3ooid6fuj4bj6jywir9vr&rid=giphy.gif" width="250">
 <h2>
 <img src="https://github.com/sanchitpasricha/Music_player_layout/blob/sanchit/readmepic1.png.png" width = "400">&nbsp
-<img src="https://github.com/sanchitpasricha/Music_player_layout/blob/main/readmepic2.png?raw=true" width = "400">
+<img src="https://github.com/sanchitpasricha/Music_player_layout/blob/sanchit/readmepic2.png.png" width = "400">
 </h2>
 
 After clicking the artist pic we will get a div shown below but only on justin bieber pic other you have to set 

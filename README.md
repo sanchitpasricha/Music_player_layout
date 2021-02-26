@@ -1,5 +1,5 @@
 # Music_player_layout
-## Hi There,hope you are doing great 
+## Hi There,hope you are doing great !
 
 So in this project i have made a webpage design of a music player using HTML and CSS. This was a project i was given after learning CSS and HTML and i made it in 2 days. We were given image of the project that how it should look. So below are the images of the webpage that yo will get after using the code in my repo :)<br>
 ** THIS REPO DOESN'T CONTAIN IMAGES

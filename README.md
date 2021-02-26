@@ -2,7 +2,7 @@
 ## Hi There,hope you are doing great !
 
 So in this project i have made a webpage design of a music player using HTML and CSS. This was a project i was given after learning CSS and HTML and i made it in 2 days. We were given image of the project that how it should look. So below are the images of the webpage that yo will get after using the code in my repo :)<br>
-** THIS REPO DOESN'T CONTAIN IMAGES
+** THIS REPOSITORY DOESN'T CONTAIN IMAGES
 <hr>
 <img src="https://media3.giphy.com/media/TI4MVNucc2bWJBLRQg/giphy.gif?cid=ecf05e47mi3ywltvp2lsbv8hmgj3ooid6fuj4bj6jywir9vr&rid=giphy.gif" width="250">
 <h2>
